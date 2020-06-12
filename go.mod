@@ -89,7 +89,7 @@ require (
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/mitchellh/panicwrap v0.0.0-20190213213626-17011010aaa4
 	github.com/mitchellh/prefixedio v0.0.0-20190213213902-5733675afd51
-	github.com/mitchellh/reflectwalk v1.0.0
+	github.com/mitchellh/reflectwalk v1.0.1
 	github.com/packer-community/winrmcp v0.0.0-20180102160824-81144009af58
 	github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c // indirect
 	github.com/pkg/errors v0.0.0-20170505043639-c605e284fe17 // indirect
