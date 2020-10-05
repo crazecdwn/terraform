@@ -76,7 +76,7 @@ require (
 	github.com/lusis/go-artifactory v0.0.0-20160115162124-7e4ce345df82
 	github.com/marstr/guid v1.1.0 // indirect
 	github.com/masterzen/winrm v0.0.0-20190223112901-5e5c9a7fe54b
-	github.com/mattn/go-colorable v0.1.1
+	github.com/mattn/go-colorable v0.1.8
 	github.com/mattn/go-shellwords v1.0.4
 	github.com/miekg/dns v1.0.8 // indirect
 	github.com/mitchellh/cli v1.0.0
