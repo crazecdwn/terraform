@@ -1,7 +1,7 @@
 module github.com/hashicorp/terraform
 
 require (
-	cloud.google.com/go v0.36.0
+	cloud.google.com/go v0.78.0
 	github.com/Azure/azure-sdk-for-go v21.3.0+incompatible
 	github.com/Azure/go-autorest v10.15.4+incompatible
 	github.com/Unknwon/com v0.0.0-20151008135407-28b053d5a292 // indirect
@@ -17,7 +17,7 @@ require (
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/boltdb/bolt v1.3.1 // indirect
 	github.com/chzyer/logex v1.1.10 // indirect
-	github.com/chzyer/readline v0.0.0-20161106042343-c914be64f07d
+	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
 	github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1 // indirect
 	github.com/coreos/bbolt v1.3.0 // indirect
 	github.com/coreos/etcd v3.3.10+incompatible
@@ -29,11 +29,10 @@ require (
 	github.com/dylanmei/winrmtest v0.0.0-20190225150635-99b7fe2fddf1
 	github.com/go-test/deep v1.0.1
 	github.com/gogo/protobuf v1.2.0 // indirect
-	github.com/golang/groupcache v0.0.0-20180513044358-24b0969c4cb7 // indirect
-	github.com/golang/mock v1.3.1
-	github.com/golang/protobuf v1.3.0
+	github.com/golang/mock v1.4.4
+	github.com/golang/protobuf v1.4.3
 	github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db // indirect
-	github.com/google/go-cmp v0.3.0
+	github.com/google/go-cmp v0.5.5
 	github.com/gophercloud/gophercloud v0.0.0-20190208042652-bc37892e1968
 	github.com/gophercloud/utils v0.0.0-20190128072930-fbb6ab446f01 // indirect
 	github.com/gorilla/websocket v1.4.0 // indirect
@@ -58,7 +57,6 @@ require (
 	github.com/hashicorp/go-tfe v0.3.16
 	github.com/hashicorp/go-uuid v1.0.1
 	github.com/hashicorp/go-version v1.1.0
-	github.com/hashicorp/golang-lru v0.5.0 // indirect
 	github.com/hashicorp/hcl v0.0.0-20170504190234-a4b07c25de5f
 	github.com/hashicorp/hcl2 v0.0.0-20190515223218-4b22149b7cef
 	github.com/hashicorp/hil v0.0.0-20190212112733-ab17b08d6590
@@ -111,9 +109,9 @@ require (
 	go.uber.org/atomic v1.3.2 // indirect
 	go.uber.org/multierr v1.1.0 // indirect
 	go.uber.org/zap v1.9.1 // indirect
-	golang.org/x/crypto v0.0.0-20190426145343-a29dc8fdc734
-	golang.org/x/net v0.0.0-20190502183928-7f726cade0ab
-	golang.org/x/oauth2 v0.0.0-20190220154721-9b3c75971fc9
-	google.golang.org/api v0.1.0
-	google.golang.org/grpc v1.18.0
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
+	golang.org/x/oauth2 v0.0.0-20210220000619-9bb904979d93
+	google.golang.org/api v0.41.0
+	google.golang.org/grpc v1.36.0
 )
